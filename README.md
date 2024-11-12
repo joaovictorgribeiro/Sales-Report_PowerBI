@@ -1,6 +1,6 @@
 # Sales Analysis Dashboard (2021-2022)
 
-![Sales Analysis Dashboard](path/to/your/image.jpg)
+![Sales Analysis Dashboard](https://github.com/joaovictorgribeiro/Sales-Report_PowerBI/blob/main/Period%20Page.png)
 
 ## Overview
 This project presents a **Power BI Sales Analysis Dashboard** that provides an in-depth evaluation of sales performance for the years **2021 and 2022**. The interactive and modern dashboard offers comprehensive insights into key sales metrics such as **Units Sold**, **Net Sales**, **Profit**, **COGS (Cost of Goods Sold)**, and **Gross Margin**. Data is analyzed across various dimensions, including **Period**, **Segment**, **Country**, and **Product**.
